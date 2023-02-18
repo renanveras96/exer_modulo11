@@ -1,0 +1,24 @@
+{
+  "name": "exer_modulo11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanveras96/exer_modulo11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanveras96/exer_modulo11/issues"
+  },
+  "homepage": "https://github.com/renanveras96/exer_modulo11#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.6.0"
+  }
+}
